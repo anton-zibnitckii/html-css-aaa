@@ -1,0 +1,21 @@
+.order-form__input {
+  background: #FFFFFF;
+  border: 2px solid #ECEEF7;
+  box-sizing: border-box;
+  border-radius: 57px;
+  width: 260px;
+  height: 60px;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 20px;
+  padding: 0 0 0 31px;
+  outline: none;
+}
+
+.order-form__input::-webkit-input-placeholder {
+  color: #222222;
+}
+
+.order-form__input::-moz-placeholder {
+  color: #222222;
+}

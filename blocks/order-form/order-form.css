@@ -1,0 +1,11 @@
+@import url(./__input/order-form__input.css);
+@import url(./__submit-button/order-form__submit-button.css);
+@import url(./__container/order-form__container.css);
+
+.order-form {
+  width: 100%;
+  max-width: 857px;
+  max-height: 60px;
+  font-size: 0;
+}
+

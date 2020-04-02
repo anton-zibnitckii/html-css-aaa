@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec48f345-9154-495a-9dcf-a847b7fdef41" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/blocks/delivery/__content-title/delivery__content-title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/delivery/__img/delivery__img.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/delivery/__order-form/delivery__order-form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/order-form/__container/order-form__container.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/order-form/__input/order-form__input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/order-form/__submit-button/order-form__submit-button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/order-form/order-form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/delivery/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/delivery/vector2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/delivery/vegitable.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content-title/content-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content-title/content-title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/delivery/delivery.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/delivery/delivery.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delivery__content-title.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blocks/delivery/__content-title/delivery__content-title.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order-form.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blocks/order-form/order-form.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delivery.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blocks/delivery/delivery.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pages/index.css" />
+        <option value="$PROJECT_DIR$/blocks/order-form/__submit-button-text/order-form__submit-button-text.css" />
+        <option value="$PROJECT_DIR$/blocks/order-form/__input-name/order-form__input-name.css" />
+        <option value="$PROJECT_DIR$/blocks/order-form/__input-phone/order-form__input-phone.css" />
+        <option value="$PROJECT_DIR$/blocks/order-form/__content/order-form__content.css" />
+        <option value="$PROJECT_DIR$/blocks/order-form/__submit-button/order-form__submit-button.css" />
+        <option value="$PROJECT_DIR$/blocks/delivery/__img/delivery__img.css" />
+        <option value="$PROJECT_DIR$/blocks/delivery/__order-form/delivery__order-form.css" />
+        <option value="$PROJECT_DIR$/blocks/order-form/__container/order-form__container.css" />
+        <option value="$PROJECT_DIR$/blocks/order-form/__input/order-form__input.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/blocks/delivery/delivery.css" />
+        <option value="$PROJECT_DIR$/blocks/order-form/order-form.css" />
+        <option value="$PROJECT_DIR$/blocks/content-title/content-title.css" />
+        <option value="$PROJECT_DIR$/blocks/delivery/__content-title/delivery__content-title.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1040" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="content-title" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="delivery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="delivery" type="462c0819:PsiDirectoryNode" />
+              <item name="__content-title" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="delivery" type="462c0819:PsiDirectoryNode" />
+              <item name="__img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="delivery" type="462c0819:PsiDirectoryNode" />
+              <item name="__order-form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="order-form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="order-form" type="462c0819:PsiDirectoryNode" />
+              <item name="__container" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="order-form" type="462c0819:PsiDirectoryNode" />
+              <item name="__input" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="order-form" type="462c0819:PsiDirectoryNode" />
+              <item name="__submit-button" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="delivery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Учеба\test\Яндекс практикум\dev\group-A\html-css-aaa\blocks\content-title" />
+      <recent name="D:\Учеба\test\Яндекс практикум\dev\group-A\html-css-aaa\images" />
+      <recent name="D:\Учеба\test\Яндекс практикум\dev\group-A\html-css-aaa\blocks" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec48f345-9154-495a-9dcf-a847b7fdef41" name="Default" comment="" />
+      <created>1585811109466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585811109466</updated>
+      <workItem from="1585811110878" duration="1785000" />
+      <workItem from="1585817904403" duration="6627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6635000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26020408" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="right" id="Database" order="0" weight="0.32959184" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3294893" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/footer/footer.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/footer/__author/footer__author.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/logo/_place/logo_place_footer.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/footer/footer.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../delete/html-css-aaa/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" selection-start-line="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__submit-button-text/order-form__submit-button-text.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__input-phone/order-form__input-phone.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__content/order-form__content.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__submit-button/order-form__submit-button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__img/delivery__img.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__order-form/delivery__order-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/delivery.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__input/order-form__input.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/order-form.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__container/order-form__container.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/content-title/content-title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__content-title/delivery__content-title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

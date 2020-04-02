@@ -1,0 +1,8 @@
+.delivery__img{
+  width: 100%;
+  max-width: 684px;
+  height: 342px;
+  object-fit: cover;
+  position: relative;
+  top: 68px;
+}

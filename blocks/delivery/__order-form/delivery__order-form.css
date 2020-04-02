@@ -1,0 +1,19 @@
+.delivery__order-form {
+  margin-right: 40px;
+}
+
+.delivery__order-form:last-of-type {
+  margin-right: 37px;
+}
+
+@media screen and (max-width: 1023px) {
+  .delivery__order-form {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+
+  .delivery__order-form:last-of-type {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+}

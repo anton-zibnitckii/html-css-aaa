@@ -1,0 +1,13 @@
+.order-form__submit-button {
+  background: linear-gradient(180deg, #FE5626 0%, #F23F0E 100%), #59AAF1;
+  box-shadow: 0 4px 8px rgba(205, 169, 41, 0.26);
+  border-radius: 59px;
+  width: 260px;
+  height: 60px;
+  color: #FFFFFF;
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 140%;
+  border: none;
+  padding: 0;
+}
