@@ -1,8 +1,23 @@
-.delivery__img{
+.delivery__img {
   width: 100%;
   max-width: 684px;
   height: 342px;
-  object-fit: cover;
+  object-fit: contain;
   position: relative;
-  top: 68px;
+  top: -25px;
+  z-index: 1;
+}
+
+@media screen and (max-width: 1023px) {
+  .delivery__img {
+    max-width: calc(684px - 40px);
+    top: 0;
+  }
+}
+@media screen and (max-width: 768px) {
+  .delivery__img {
+    max-width: calc(684px - 40px);
+    top: 25px;
+    padding-top: 50px;
+  }
 }

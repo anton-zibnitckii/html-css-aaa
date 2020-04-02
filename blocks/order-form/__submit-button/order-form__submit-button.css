@@ -1,5 +1,4 @@
 .order-form__submit-button {
-  background: linear-gradient(180deg, #FE5626 0%, #F23F0E 100%), #59AAF1;
   box-shadow: 0 4px 8px rgba(205, 169, 41, 0.26);
   border-radius: 59px;
   width: 260px;
@@ -7,7 +6,11 @@
   color: #FFFFFF;
   font-size: 18px;
   font-weight: bold;
-  line-height: 140%;
+  line-height: 25px;
   border: none;
   padding: 0;
+  background-image: url(../../../images/delivery/vector2.svg), linear-gradient(180deg, #FE5626 0%, #F23F0E 100%);
+  background-position: 80% 50%;
+  background-repeat: no-repeat;
+  padding-right: 55px;
 }

@@ -1,0 +1,13 @@
+.delivery__icons {
+  width: 100%;
+  max-width: 1440px;
+  height: 790px;
+  background-image: url(../../../images/delivery/icons.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+  position: absolute;
+  top: 0;
+  left: -32px;
+  z-index: 0;
+}

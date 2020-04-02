@@ -7,5 +7,7 @@
   max-width: 857px;
   max-height: 60px;
   font-size: 0;
+  position: relative;
+  z-index: 1;
 }
 

@@ -1,0 +1,13 @@
+.delivery__cover {
+  width: 100%;
+  max-width: 1440px;
+  height: 625px;
+  background-image: url(../../../images/delivery/vegitable.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: bottom center;
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  left: 0;
+}

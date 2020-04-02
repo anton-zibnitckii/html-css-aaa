@@ -1,18 +1,19 @@
 @import url(./__img/delivery__img.css);
 @import url(./__order-form/delivery__order-form.css);
 @import url(./__content-title/delivery__content-title.css);
+@import url(./__cover/delivery__cover.css);
+@import url(./__icons/delivery__icons.css);
 
 .delivery {
   margin: 0 auto;
   margin-top: 127px;
   max-width: 1440px;
-  width: 100%;
   height: 575px;
-  background-image: url(../../images/delivery/vegitable.png);
-  background-repeat: no-repeat;
-  background-size: contain;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   background-color: #F0F5FB;
+  position: relative;
+  z-index: 1;
 }
