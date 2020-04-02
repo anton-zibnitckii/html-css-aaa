@@ -2,3 +2,11 @@
   margin: 0;
   padding: 22px 0;
 }
+
+
+@media screen and (max-width: 768px) {
+  .footer__author {
+    padding: 10px 0 20px 0;
+    order: 3;
+  }
+}

@@ -1,7 +1,13 @@
-.logo_place_footer{
+.logo_place_footer {
   background-image: url(../../../images/footer/logo.svg);
   background-repeat: no-repeat;
   background-size: contain;
   width: 112px;
-  height: 67px;
+  height: 76px;
+}
+
+@media screen and (max-width: 768px) {
+  .logo_place_footer{
+    order: 1;
+  }
 }

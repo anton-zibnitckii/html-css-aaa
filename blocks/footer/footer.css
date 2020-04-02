@@ -4,7 +4,7 @@
 .footer {
   margin: 0 auto;
   max-width: 1160px;
-  width: calc(100% - 280px);
+  width: calc(100% - 12%);
   display: flex;
   height: 66px;
   flex-direction: row;
@@ -12,9 +12,18 @@
   align-items: flex-end;
   color: #000000;
   background-color: #FFFFFF;
-  font-size: 16px; /*0.6667rem*/
+  font-size: 16px;
   font-weight: normal;
-  line-height: 22px; /*0.9167rem*/
+  line-height: 22px;
   padding-top: 33px;
   padding-bottom: 34px;
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    padding-bottom: 0;
+  }
 }
