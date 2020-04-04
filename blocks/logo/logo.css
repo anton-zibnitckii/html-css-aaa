@@ -1,2 +1,6 @@
 @import url(./_place/logo_place_footer.css);
 
+.logo{
+  cursor: pointer;
+}
+
