@@ -10,6 +10,7 @@
   line-height: 20px;
   padding: 0 0 0 31px;
   outline: none;
+  cursor: pointer;
 }
 
 .order-form__input::-webkit-input-placeholder {
@@ -26,4 +27,8 @@
 
 .order-form__input::placeholder {
   color: #222222;
+}
+
+.order-form__input:hover {
+  border: 1px solid #E45759;
 }
