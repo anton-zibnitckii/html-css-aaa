@@ -5,6 +5,9 @@
 
 @media screen and (max-width: 768px) {
   .footer__copyright {
+    -webkit-box-ordinal-group: 3;
+    -webkit-order: 2;
+    -ms-flex-order: 2;
     order: 2;
     padding: 50px 0 10px 0;
   }
