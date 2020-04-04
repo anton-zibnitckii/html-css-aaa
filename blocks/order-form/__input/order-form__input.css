@@ -19,3 +19,11 @@
 .order-form__input::-moz-placeholder {
   color: #222222;
 }
+
+.order-form__input::-ms-input-placeholder {
+  color: #222222;
+}
+
+.order-form__input::placeholder {
+  color: #222222;
+}
