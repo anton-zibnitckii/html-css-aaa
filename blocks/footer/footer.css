@@ -1,5 +1,6 @@
 @import url(./__author/footer__author.css);
 @import url(./__copyright/footer__copyright.css);
+@import url(./__span-accent/footer__span-accent.css);
 
 .footer {
   margin: 0 auto;
