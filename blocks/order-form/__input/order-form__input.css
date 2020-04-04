@@ -1,6 +1,7 @@
 .order-form__input {
   background: #FFFFFF;
   border: 2px solid #ECEEF7;
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
   border-radius: 57px;
   width: 260px;

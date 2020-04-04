@@ -2,6 +2,7 @@
   width: 100%;
   max-width: 684px;
   height: 342px;
+  -o-object-fit: contain;
   object-fit: contain;
   position: relative;
   top: -25px;
