@@ -93,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slider__spoiler.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blocks/slider/__spoiler/slider__spoiler.css">
+      <file leaf-file-name="food__price.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blocks/food/__price/food__price.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="180">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -158,11 +158,9 @@
         <option value="$PROJECT_DIR$/blocks/food/__refresh-icon/food__refresh-icon.css" />
         <option value="$PROJECT_DIR$/blocks/food/__more-icon/food__more-icon.css" />
         <option value="$PROJECT_DIR$/blocks/food/__grid-cards/food__grid-cards.css" />
-        <option value="$PROJECT_DIR$/blocks/food/__price/food__price.css" />
         <option value="$PROJECT_DIR$/blocks/food/__tab/food__tab.css" />
         <option value="$PROJECT_DIR$/blocks/food/__tabs/food__tabs.css" />
         <option value="$PROJECT_DIR$/blocks/food/__content-title/food__content-title.css" />
-        <option value="$PROJECT_DIR$/blocks/food/food.css" />
         <option value="$PROJECT_DIR$/blocks/slider/__container/slider__container.css" />
         <option value="$PROJECT_DIR$/blocks/slider/__img/slider__img.css" />
         <option value="$PROJECT_DIR$/index.html" />
@@ -170,6 +168,8 @@
         <option value="$PROJECT_DIR$/blocks/slider/__link/slider__link.css" />
         <option value="$PROJECT_DIR$/blocks/slider/slider.css" />
         <option value="$PROJECT_DIR$/blocks/slider/__spoiler/slider__spoiler.css" />
+        <option value="$PROJECT_DIR$/blocks/food/food.css" />
+        <option value="$PROJECT_DIR$/blocks/food/__price/food__price.css" />
       </list>
     </option>
   </component>
@@ -208,6 +208,19 @@
               <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
               <item name="blocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="food" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="food" type="462c0819:PsiDirectoryNode" />
+              <item name="__price" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
@@ -307,18 +320,17 @@
       <workItem from="1585928979359" duration="242000" />
       <workItem from="1585996207597" duration="620000" />
       <workItem from="1586013312782" duration="1368000" />
-      <workItem from="1586071403803" duration="20279000" />
+      <workItem from="1586071403803" duration="20544000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39418000" />
+    <option name="totallyTimeSpent" value="39683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26020408" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.26020408" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -327,7 +339,7 @@
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Run" order="7" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3294893" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3294893" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
@@ -562,13 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/food/__price/food__price.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/delivery/__content-title/delivery__content-title.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -601,13 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/food/food.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -672,6 +670,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/food/food.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/slider/__spoiler/slider__spoiler.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -710,10 +722,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/slider/__spoiler/slider__spoiler.css">
+    <entry file="file://$PROJECT_DIR$/blocks/food/__price/food__price.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        <state relative-caret-position="180">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
