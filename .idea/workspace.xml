@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ec48f345-9154-495a-9dcf-a847b7fdef41" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/blocks/food/__content-title/food__content-title.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blocks/food/__grid-card-icon-buy/_active/food__grid-card-icon-buy_active.css" afterDir="false" />
@@ -30,6 +31,9 @@
       <change beforePath="$PROJECT_DIR$/blocks/slider/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/slider/slider.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
+=======
+    <list default="true" id="ec48f345-9154-495a-9dcf-a847b7fdef41" name="Default" comment="" />
+>>>>>>> alexandr/footer
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +57,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,6 +103,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+=======
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+>>>>>>> alexandr/footer
             </state>
           </provider>
         </entry>
@@ -107,9 +119,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+=======
+        <option value="CSS File" />
+>>>>>>> alexandr/footer
       </list>
     </option>
   </component>
@@ -119,6 +135,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/blocks/order-form/__submit-button-text/order-form__submit-button-text.css" />
         <option value="$PROJECT_DIR$/blocks/order-form/__input-name/order-form__input-name.css" />
         <option value="$PROJECT_DIR$/blocks/order-form/__input-phone/order-form__input-phone.css" />
@@ -170,6 +187,16 @@
         <option value="$PROJECT_DIR$/blocks/slider/__spoiler/slider__spoiler.css" />
         <option value="$PROJECT_DIR$/blocks/food/food.css" />
         <option value="$PROJECT_DIR$/blocks/food/__price/food__price.css" />
+=======
+        <option value="$PROJECT_DIR$/pages/index.css" />
+        <option value="$PROJECT_DIR$/blocks/footer/__author/footer__author.css" />
+        <option value="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" />
+        <option value="$PROJECT_DIR$/blocks/logo/_place/logo_place_footer.css" />
+        <option value="$PROJECT_DIR$/blocks/footer/footer.css" />
+        <option value="$PROJECT_DIR$/blocks/footer/__span-accent/_color/footer__span-accent_color_dot.css" />
+        <option value="$PROJECT_DIR$/blocks/footer/__span-accent/footer__span-accent.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+>>>>>>> alexandr/footer
       </list>
     </option>
   </component>
@@ -213,6 +240,7 @@
               <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
               <item name="blocks" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="food" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -241,20 +269,31 @@
               <item name="blocks" type="462c0819:PsiDirectoryNode" />
               <item name="slider" type="462c0819:PsiDirectoryNode" />
               <item name="__img" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="delivery" type="462c0819:PsiDirectoryNode" />
+>>>>>>> alexandr/footer
             </path>
             <path>
               <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
               <item name="blocks" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="slider" type="462c0819:PsiDirectoryNode" />
               <item name="__link" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="footer" type="462c0819:PsiDirectoryNode" />
+>>>>>>> alexandr/footer
             </path>
             <path>
               <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
               <item name="html-css-aaa" type="462c0819:PsiDirectoryNode" />
               <item name="blocks" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="slider" type="462c0819:PsiDirectoryNode" />
               <item name="__spoiler" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="order-form" type="462c0819:PsiDirectoryNode" />
+>>>>>>> alexandr/footer
             </path>
             <path>
               <item name="html-css-aaa" type="b2602c69:ProjectViewProjectNode" />
@@ -274,6 +313,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -287,6 +327,18 @@
       <recent name="D:\Учеба\test\Яндекс практикум\dev\group-A\html-css-aaa\blocks\content-title" />
       <recent name="D:\Учеба\test\Яндекс практикум\dev\group-A\html-css-aaa\images" />
       <recent name="D:\Учеба\test\Яндекс практикум\dev\group-A\html-css-aaa\blocks" />
+=======
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Учеба\test\Яндекс практикум\dev\group-A\html-css-aaa\images" />
+      <recent name="D:\Учеба\test\Яндекс практикум\dev\group-A\html-css-aaa\blocks" />
+      <recent name="D:\Учеба\test\Яндекс практикум\dev\group-A\html-css-aaa\blocks\footer" />
+>>>>>>> alexandr/footer
     </key>
   </component>
   <component name="RunDashboard">
@@ -306,11 +358,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="ec48f345-9154-495a-9dcf-a847b7fdef41" name="Default" comment="" />
+=======
+      <changelist id="ef7458ca-1939-4063-bbcd-d6d3dafa8999" name="Default" comment="" />
+>>>>>>> alexandr/footer
       <created>1585811109466</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585811109466</updated>
+<<<<<<< HEAD
       <workItem from="1585811110878" duration="1785000" />
       <workItem from="1585817904403" duration="14342000" />
       <workItem from="1585838763268" duration="601000" />
@@ -321,16 +378,29 @@
       <workItem from="1585996207597" duration="620000" />
       <workItem from="1586013312782" duration="1368000" />
       <workItem from="1586071403803" duration="20544000" />
+=======
+      <workItem from="1585811110878" duration="1492000" />
+>>>>>>> alexandr/footer
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="39683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.26020408" />
+=======
+    <option name="totallyTimeSpent" value="6793000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.27755103" />
+>>>>>>> alexandr/footer
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -343,18 +413,43 @@
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="6" />
+=======
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25510204" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3294893" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+>>>>>>> alexandr/footer
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26020408" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25510204" />
+>>>>>>> alexandr/footer
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -362,8 +457,13 @@
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Run" order="7" />
       <window_info anchor="bottom" id="Find" order="6" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Database" order="0" weight="0.32959184" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.3294893" />
+=======
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" weight="0.3294893" />
+>>>>>>> alexandr/footer
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -379,6 +479,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/pages/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -533,12 +634,55 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blocks/food/__grid-card/food__grid-card.css">
+=======
+    <entry file="file://$PROJECT_DIR$/blocks/content-title/content-title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__cover/_theme/delivery__cover_theme_right.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__button-arrow/delivery__button-arrow.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__submit-button/order-form__submit-button.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/delivery.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__content-title/delivery__content-title.css" />
+    <entry file="file://$PROJECT_DIR$/1111delete.html" />
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__cover/delivery__cover.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__icons/delivery__icons.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/order-form.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__img/delivery__img.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__input/order-form__input.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__img/delivery__img.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+>>>>>>> alexandr/footer
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/blocks/food/__grid-card-icon-buy/food__grid-card-icon-buy.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -681,11 +825,130 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+=======
+    <entry file="file://$PROJECT_DIR$/pages/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/footer/footer.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/footer/__author/footer__author.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/logo/_place/logo_place_footer.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/footer/footer.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../delete/html-css-aaa/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="10" selection-start-line="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__submit-button-text/order-form__submit-button-text.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__input-phone/order-form__input-phone.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__content/order-form__content.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__order-form/delivery__order-form.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__input/order-form__input.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__container/order-form__container.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/content-title/content-title.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__cover/_theme/delivery__cover_theme_right.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__button-arrow/delivery__button-arrow.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__icons/delivery__icons.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/__submit-button/order-form__submit-button.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/delivery.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/order-form/order-form.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__cover/delivery__cover.css" />
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__content-title/delivery__content-title.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/delivery/__img/delivery__img.css" />
+    <entry file="file://$PROJECT_DIR$/../delete/html-css-aaa/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="23" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/logo/logo.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/root/root.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/footer/__author/footer__author.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/logo/_place/logo_place_footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/footer/footer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/footer/__span-accent/_color/footer__span-accent_color_dot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+>>>>>>> alexandr/footer
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="340">
           <caret line="139" selection-start-line="139" selection-end-line="139" />
           <folding>
@@ -726,6 +989,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+=======
+        <state relative-caret-position="225">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/footer/__span-accent/footer__span-accent.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="2" selection-end-column="22" />
+>>>>>>> alexandr/footer
         </state>
       </provider>
     </entry>
