@@ -12,4 +12,6 @@
   -ms-flex-direction: row;
   flex-direction: row;
   position: relative;
+  left: 0;
+  transition: all ease 1s;
 }
