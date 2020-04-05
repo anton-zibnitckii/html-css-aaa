@@ -1,0 +1,9 @@
+.food__grid-card-icon-buy {
+  background-image: url(../../../images/food/grid-card-icon-buy.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 33px;
+  height: 33px;
+  margin-top: 20px;
+  cursor: pointer;
+}

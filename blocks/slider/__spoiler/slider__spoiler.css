@@ -1,0 +1,28 @@
+.slider__spoiler {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  max-width: 480px;
+  height: 180px;
+  background: linear-gradient(20.58deg, #FD9924 -51.05%, #F65B16 134.89%);
+  box-shadow: 0px 20px 25px rgba(253, 55, 36, 0.2), 0px 35px 50px rgba(253, 55, 36, 0.2), 0px 70px 90px rgba(253, 55, 36, 0.2);
+  border-radius: 15px;
+  margin: 0;
+  text-align: center;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+  .slider__spoiler{
+    width: calc(100% - 40px);
+  }
+}

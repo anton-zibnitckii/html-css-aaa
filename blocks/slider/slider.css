@@ -1,0 +1,12 @@
+@import url(./__container/slider__container.css);
+@import url(./__spoiler/slider__spoiler.css);
+@import url(./__link/slider__link.css);
+@import url(./__img/slider__img.css);
+
+
+.slider {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  overflow: hidden;
+}

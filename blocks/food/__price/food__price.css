@@ -1,0 +1,17 @@
+.food__price {
+  width: 100%;
+  max-width: 308px;
+  max-height: 166px;
+  float: right;
+  align-self: flex-end;
+  position: relative;
+  top: 50px;
+  z-index: -1;
+  object-fit: contain;
+}
+
+@media screen and (max-width: 768px){
+  .food__price{
+    display: none;
+  }
+}

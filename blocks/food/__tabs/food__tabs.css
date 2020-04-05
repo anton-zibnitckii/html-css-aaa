@@ -1,0 +1,31 @@
+.food__tabs{
+  max-width: 1160px;
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(135px,1fr));
+  padding: 49px 0 50px 0;
+  margin: 0;
+  flex-wrap: wrap;
+  grid-row-gap: 31px;
+  grid-column-gap: 31px;
+}
+
+@media screen and (max-width: 1024px){
+  .food__tabs{
+    max-width: calc(100% - 100px);
+  }
+}
+
+@media screen and (max-width: 768px){
+  .food__tabs{
+    max-width: calc(100% - 30px);
+  }
+}
+
+@media screen and (max-width: 425px){
+  .food__tabs{
+    max-width: calc(100% - 20px);
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-column-gap: 0;
+  }
+}

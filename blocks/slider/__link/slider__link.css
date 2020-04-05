@@ -1,0 +1,9 @@
+.slider__link {
+  cursor: pointer;
+  width: 260px;
+  height: 260px;
+}
+
+.slider__link:not(:last-of-type) {
+  margin-right: 40px;
+}

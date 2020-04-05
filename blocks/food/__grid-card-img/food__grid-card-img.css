@@ -1,0 +1,8 @@
+.food__grid-card-img {
+  width: 205px;
+  height: 210px;
+  object-fit: cover;
+  position: relative;
+  left: 15px;
+  padding-top: 30px;
+}

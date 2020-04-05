@@ -1,0 +1,12 @@
+.food__grid-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 260px;
+  height: 426px;
+  position: relative;
+  z-index: 0;
+  background-image: url(../../../images/food/grid-card-background.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}

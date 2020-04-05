@@ -1,0 +1,37 @@
+@import url(./__price/food__price.css);
+@import url(./__tabs/food__tabs.css);
+@import url(./__tab/food__tab.css);
+@import url(./__link/food__link.css);
+@import url(./__tab/_active/food__tab_active.css);
+@import url(./__grid-cards/food__grid-cards.css);
+@import url(./__grid-card/food__grid-card.css);
+@import url(./__grid-card/_theme/food__grid-card_theme_composition.css);
+@import url(./__grid-card/_theme/food__grid-card_theme_name.css);
+@import url(./__grid-card/_theme/food__grid-card_theme_price.css);
+@import url(./__grid-card/_theme/food__grid-card_theme_size.css);
+@import url(./__grid-card-icon-buy/food__grid-card-icon-buy.css);
+@import url(./__grid-card-icon-buy/_active/food__grid-card-icon-buy_active.css);
+@import url(./__grid-card-img/food__grid-card-img.css);
+@import url(./__grid-card-pizza-description/food__grid-card-pizza-description.css);
+@import url(./__more-icon/food__more-icon.css);
+@import url(./__content-title/food__content-title.css);
+
+.food{
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(../../images/food/food_icons.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 0 125%;
+  padding-bottom: 103px;
+}
+
+@media screen and (max-width: 768px){
+  .food{
+    padding-top: 37px;
+  }
+}
