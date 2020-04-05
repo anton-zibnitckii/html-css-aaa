@@ -1,6 +1,7 @@
 .food__grid-card-img {
   width: 205px;
   height: 210px;
+  -o-object-fit: cover;
   object-fit: cover;
   position: relative;
   left: 15px;

@@ -1,10 +1,13 @@
 .food__tabs{
   max-width: 1160px;
   list-style: none;
+  display: -ms-grid;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(135px,1fr));
   padding: 49px 0 50px 0;
   margin: 0;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   grid-row-gap: 31px;
   grid-column-gap: 31px;

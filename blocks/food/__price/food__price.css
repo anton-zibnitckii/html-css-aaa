@@ -3,10 +3,13 @@
   max-width: 308px;
   max-height: 166px;
   float: right;
+  -webkit-align-self: flex-end;
+  -ms-flex-item-align: end;
   align-self: flex-end;
   position: relative;
   top: 50px;
   z-index: -1;
+  -o-object-fit: contain;
   object-fit: contain;
 }
 

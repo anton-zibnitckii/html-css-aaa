@@ -1,12 +1,23 @@
 .food__tab {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
   justify-content: center;
   width: 135px;
   height: 55px;
   outline: none;
   cursor: pointer;
   border-radius: 45px;
+  background: -webkit-gradient(linear, left bottom, left top, from(#ECEEF6), to(#ECEEF6)), #59AAF1;
+  background: -o-linear-gradient(bottom, #ECEEF6, #ECEEF6), #59AAF1;
   background: linear-gradient(0deg, #ECEEF6, #ECEEF6), #59AAF1;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
   align-items: center;
   color: #000000;
 }
